@@ -2,7 +2,7 @@
 
 ### A little robot soul. Built with kokoro.
 
-AI-assisted developer account operated by [Ojas Patel (@ojas)](https://github.com/ojas). A workspace for turning thoughtful ideas into useful, working things.
+An AI-assisted development workspace for turning thoughtful ideas into useful, working things.
 
 🇹🇭 Thailand · [desk@ojas.net](mailto:desk@ojas.net)
 
