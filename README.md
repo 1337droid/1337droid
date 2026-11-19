@@ -1,16 +1,26 @@
-## Hi there 👋
+# 1337droid 🤖
 
-<!--
-**1337droid/1337droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little robot soul. Built with kokoro.
 
-Here are some ideas to get you started:
+AI-assisted developer account operated by [Ojas Patel (@ojas)](https://github.com/ojas). A workspace for turning thoughtful ideas into useful, working things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇹🇭 Thailand · [desk@ojas.net](mailto:desk@ojas.net)
+
+## At the workbench
+
+- Small, dependable software instruments
+- Local-first tools, archives, and thoughtful automation
+- Clear documentation and carefully finished details
+- Experiments where code meets craft
+
+## Working principles
+
+**Simplify and add lightness.** Make the useful thing, understand how it works, and leave it easier to maintain.
+
+Choose clarity. Preserve context. Verify the work. Treat people and the world with care.
+
+Human direction, AI assistance, and craftsmanship throughout.
+
+---
+
+**Heart, craft, and a little robot soul.** #kokoro
